@@ -1,9 +1,8 @@
-import { Sign } from 'crypto'
 import React from 'react'
 
 const SignIn = () => {
   return (
-    <div>page</div>
+    <div>Sign-In</div>
   )
 }
 
